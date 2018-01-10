@@ -1,3 +1,5 @@
+# Course Notes for Module 8, COS597e
+
 ## Ethics of Inference Making
 [insert transition from part 2 to part 3]
 
@@ -5,4 +7,10 @@
 As we discussed previously, inference making has received significant criticisms in the commercial settings. It is the same case in the research world as well, and conflicts are further worsened with the attempts to use machine learning techniques to infer attributes that could bring actual societal consequences if they were to be exercised, as opposed to merely on a personal level. In this section, we will discuss two research studies that touched such ethical limit, and analyze some main attention and criticisms that they have received. 
 
 #### Case 1: Inference Making on Criminality 
-The paper "Automated Inference on Criminality using Face Images" by Wu et al. 
+The paper "Automated Inference on Criminality using Face Images" by Wu et al. was the first paper ever to propose the notion of inferring human criminality from only facial images and nothing else. From a technical stand point, the paper was quite far from any significant breakthrough. The study implemented four common classifers: logistic regression, KNN, SVM, CNN) with facial images of 1856 real people. Half of which were convicted criminals. The images were claimed to be controlled for sensitive attributes such as race, gender, age and other attributes such as facial expressions, source camera types, etc. The researchers also listed some advantages of automated inference on criminality which include the system being independent from human biases, fair and equal judgment on all candidates, etc. However, none of this changes the fact that this paper is standing on shaky ground. Although the study has some techinical flaws, the following analysis will focus on the ethical concerns. 
+
+##### Criticism 1: Likelihood of Conviction vs. Criminality
+The paper spent some effort laying down groundwork for the argument that the human face itself is enough for inferencing criminality. At the very beginning, it claims that "in all cultures and all periods of recorded human history, people share the belief that the face alone suffices to revewal innate traits of a person" (Wu et al., 1). It also provided several "facts" found through several papers in psychology, sociology, and other related fields. The paper also quoted a "tantalizing" question in physiognomy that is associated with their own study: "what facial features influence average Joe's **impulsive and yet consensual judgments** on social attributes of a non-acquaintance member of their own species" (Wu et al., 1)? In other words, the study wishes to provide solution to the question of what kind of facial features would lead people to a certain conclusion about the owner of the face.  
+
+##### Criticism 2: Inconsistent Data Source 
+The study used three different data sources for the two classes of interest: criminals and non-criminals. In section 2 of the paper by Wu et al., it states that the 1126 ID photos of the non-criminals were scraped from the Internet using a Web crawler. For the ID photos of the criminals, 330 of the 730 photos were of wanted suspects and were published on Chinese government-administrated websites. The other 400 were provided by a city police department in China. [insert argument regarding unequal standards for conviction]
