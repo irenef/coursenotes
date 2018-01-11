@@ -43,25 +43,25 @@ If this sexual orientation predicting tool gets exercised or even commercialized
 #### Ways to Regulate Inference Making Research 
 Kosinski et al. were right about one thing -- policymakers should be aware that there will only be more research like the two discussed above, and preventive measures should be taken before such tools become widely available. This section will discuss several possible ways to regulate research or tools that involves inference making of sensitive attributes.
 
-1. Companies should disclose existing and potential inferences.
-	E.g. if a discount store wishes to infer pregnancy of its customers from their 
-	shopping behavior, it should inform its customers of this practice or even ask 
-	them to sign an agreement before any shopping record is used for inference making. 
-	Some claim that it would not be privacy-invading if only public data is used. 
-	However, that is not valid because when individuals agreed to release their data 
-	as public, they were not aware of the possibility of such inference making. 
-	It is therefore still unethical to make inference on sensitive attributes from 
-	public data.   
-2. Make domain expertise mandatory. 
-	Another way is to require domain expertise for research that involve inference 
-	making on sensitive attributes. In other words, researchers are only allowed to 
-	work in their own field. The drawback of this method is that it hinders 
-	interdisciplinary collaboration. 
-3. Hold research to higher standards via IRB process, and hold surprising inferences 
-   to even higher standards.    
-	Two separate sets of standards could be put in place for research that make 
-	inference on sensitive attributes and research that make surprising inferences 
-	such as the two cases analyzed above.
+	1. Companies should disclose existing and potential inferences.
+		E.g. if a discount store wishes to infer pregnancy of its customers from their 
+		shopping behavior, it should inform its customers of this practice or even ask 
+		them to sign an agreement before any shopping record is used for inference making. 
+		Some claim that it would not be privacy-invading if only public data is used. 
+		However, that is not valid because when individuals agreed to release their data 
+		as public, they were not aware of the possibility of such inference making. 
+		It is therefore still unethical to make inference on sensitive attributes from 
+		public data.   
+	2. Make domain expertise mandatory. 
+		Another way is to require domain expertise for research that involve inference 
+		making on sensitive attributes. In other words, researchers are only allowed to 
+		work in their own field. The drawback of this method is that it hinders 
+		interdisciplinary collaboration. 
+	3. Hold research to higher standards via IRB process, and hold surprising inferences 
+	   to even higher standards.    
+		Two separate sets of standards could be put in place for research that make 
+		inference on sensitive attributes and research that make surprising inferences 
+		such as the two cases analyzed above.
 
 ##### Student Comments
 // TODO insert ideas from students 
