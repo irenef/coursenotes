@@ -84,7 +84,7 @@ Kosinski et al. were right about one thing -- policymakers should be aware that 
 		inference on sensitive attributes and research that make surprising inferences 
 		such as the two cases analyzed above.
 
-## Part IV. Appendix: Does Everything Predict Everything  
+## Appendix: Does Everything Predict Everything  
 
 ### Limitations of Prediction
 
