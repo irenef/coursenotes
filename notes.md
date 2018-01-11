@@ -1,6 +1,6 @@
 # Course Notes for Module 8, COS597e
 
-## Ethics of Inference Making
+## Part III. Ethics of Inference Making
 // TODO [insert transition from part 2 to part 3]
 
 ### Validity and Ethics of Past Research 
@@ -40,7 +40,7 @@ If this sexual orientation predicting tool gets exercised or even commercialized
 ##### A Summary of Criticisms from Students
 // TODO insert student criticisms 
 
-#### Ways to Regulate Inference Making Research 
+### Ways to Regulate Inference Making Research 
 Kosinski et al. were right about one thing -- policymakers should be aware that there will only be more research like the two discussed above, and preventive measures should be taken before such tools become widely available. This section will discuss several possible ways to regulate research or tools that involves inference making of sensitive attributes.
 
 	1. Companies should disclose existing and potential inferences.
@@ -63,20 +63,21 @@ Kosinski et al. were right about one thing -- policymakers should be aware that 
 		inference on sensitive attributes and research that make surprising inferences 
 		such as the two cases analyzed above.
 
-##### Student Comments
+#### Student Comments
 // TODO insert ideas from students 
 
 
+## Part IV. Appendix: Does Everything Predict Everything  
+// TODO insert transition between part 3 and part 4
 
-### Appendix: Does Everything Predict Everything  
+Consider F(x) = 1 - 2X^2
 
-#### General Limits of Prediction 
-
-##### Student Responses 
-
-#### Chaos Theory 
+### Chaos Theory 
 
 
+### General Limits of Prediction 
+
+#### Student Responses 
 
 ## References 
 
