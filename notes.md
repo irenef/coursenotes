@@ -24,11 +24,17 @@ The study used three different data sources for the two classes of interest: cri
 ##### A Summary of Criticisms from Students
 Other than the criticisms discussed above, these are some main points from reading responses: 
 
-	1. The photos of the non-criminals were posted on websites presumably designed for promotional purposes, so they tend to look more put together. 
-	2. Are factors such as the source and facial expressions really controlled for in the analysis? One of the features with strong indication is the angle between the nose and the lips, which might be skewed with the presence of a smile or not. 
+	1. The photos of the non-criminals were posted on websites presumably designed for promotional purposes, 
+		so they tend to look more put together. 
+	2. Are factors such as the source and facial expressions really controlled for in the analysis? One of 
+	the features with strong indication is the angle between the nose and the lips, which might be skewed 
+	with the presence of a smile or not. 
 	3. Sample size is small and undiverse in terms of race, gender, geographical location, etc.
-	4. Feedback loops could be a big problem when machine learning is applied to social issues such as criminality. 
-	5. The study does not differentiate a crime from another. Criminality is treated as binary variable and all criminals are considered to be in the same class regardless of the types of crimes or the level of criminality. 
+	4. Feedback loops could be a big problem when machine learning is applied to social issues such as 
+	criminality. 
+	5. The study does not differentiate a crime from another. Criminality is treated as binary variable and 
+	all criminals are considered to be in the same class regardless of the types of crimes or the level of 
+	criminality. 
 
 #### Case 2: Inference on Sexual Orientation from Facial Images 
 As the title of the paper, "Deep Neural Networks Are More Accurate Than Humans at Detecting Sexual Orientation from Facial Images," suggests, Kosinski et al. attempt to infer one's sexual orientation from facial images only. The study used deep neural networks to extract features from 35,326 facial images, which are inputted into a logistic regression model to predict sexual orientation. The paper claims high accuracy in its results and concludes that homosexual men and women tend to have "gender-atypical facial morphology, expression, and grooming styles" (Kosinski, 2). There are several strong criticisms that question both the ethics and the validity of the study. 
@@ -45,9 +51,15 @@ If this sexual orientation predicting tool gets exercised or even commercialized
 ##### A Summary of Criticisms from Students
 Other than the criticisms discussed above, these are some main points from reading responses: 
 
-	1. The authors claim that the model is invariant to facial expressions. However, some critics point out the model, VGG-Face, can be trained to classify facial expressions, and therefore facial expressions could be taken into account implicitly.
-	2. The authors and the paper didn’t explicitly state that they had the permission to scrape the images from the dating site. It could have violated the privacy of the site’s users and the site’s terms of service.
-	3. high accuracy of 91% was reported in many news outlets, however, that is the result from one specific scenario, where the algorithm is asked to identify the person who has a higher chance of being gay between two people.
+	1. The authors claim that the model is invariant to facial expressions. However, some critics point out 
+	the model, VGG-Face, can be trained to classify facial expressions, and therefore facial expressions 
+	could be taken into account implicitly.
+	2. The authors and the paper didn’t explicitly state that they had the permission to scrape the images 
+	from the dating site. It could have violated the privacy of the site’s users and the site’s terms of 
+	service.
+	3. high accuracy of 91% was reported in many news outlets, however, that is the result from one specific 
+	scenario, where the algorithm is asked to identify the person who has a higher chance of being gay between 
+	two people.
 
 ### Ways to Regulate Inference Making Research 
 Kosinski et al. were right about one thing -- policymakers should be aware that there will only be more research like the two discussed above, and preventive measures should be taken before such tools become widely available. This section will discuss several possible ways to regulate research or tools that involves inference making of sensitive attributes.
