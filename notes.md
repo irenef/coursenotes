@@ -84,12 +84,7 @@ Kosinski et al. were right about one thing -- policymakers should be aware that 
 		inference on sensitive attributes and research that make surprising inferences 
 		such as the two cases analyzed above.
 
-#### Student Comments: Criteria for "Crossing The Line"
-// TODO insert ideas from students 
-
-
 ## Part IV. Appendix: Does Everything Predict Everything  
-// TODO insert transition between part 3 and part 4
 
 ### Limitations of Prediction
 
