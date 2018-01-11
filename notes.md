@@ -70,7 +70,8 @@ Kosinski et al. were right about one thing -- policymakers should be aware that 
 ## Part IV. Appendix: Does Everything Predict Everything  
 // TODO insert transition between part 3 and part 4
 
-Consider F(x) = 1 - 2X^2
+	Consider F(x) = 1 - 2x<sup>2</sup>, x is a member of [-1, 1]. 
+	Consider F<sup>100</sup>. It is a black box, and you're trying to maximize R<sup>2</sup>. 
 
 ### Chaos Theory 
 
