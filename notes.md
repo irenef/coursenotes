@@ -23,6 +23,7 @@ The study used three different data sources for the two classes of interest: cri
 
 ##### A Summary of Criticisms from Students
 Other than the criticisms discussed above, these are some main points from reading responses: 
+
 	1. The photos of the non-criminals were posted on websites presumably designed for promotional purposes, so they tend to look more put together. 
 	2. Are factors such as the source and facial expressions really controlled for in the analysis? One of the features with strong indication is the angle between the nose and the lips, which might be skewed with the presence of a smile or not. 
 	3. Sample size is small and undiverse in terms of race, gender, geographical location, etc.
@@ -43,6 +44,7 @@ If this sexual orientation predicting tool gets exercised or even commercialized
 
 ##### A Summary of Criticisms from Students
 Other than the criticisms discussed above, these are some main points from reading responses: 
+
 	1. The authors claim that the model is invariant to facial expressions. However, some critics point out the model, VGG-Face, can be trained to classify facial expressions, and therefore facial expressions could be taken into account implicitly.
 	2. The authors and the paper didn’t explicitly state that they had the permission to scrape the images from the dating site. It could have violated the privacy of the site’s users and the site’s terms of service.
 	3. high accuracy of 91% was reported in many news outlets, however, that is the result from one specific scenario, where the algorithm is asked to identify the person who has a higher chance of being gay between two people.
@@ -123,7 +125,7 @@ The four categories are ranked as the following: almost perfect > high accuracy 
 		- better than random: 1
 		- high accuracy: 4
 		- almost perfect: 6
-  
+ 
 
 ## References 
 
